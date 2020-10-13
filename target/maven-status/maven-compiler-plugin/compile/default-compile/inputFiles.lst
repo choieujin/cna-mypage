@@ -1,0 +1,10 @@
+/Users/choeyujin/Downloads/mall/mypage/src/main/java/mall/AbstractEvent.java
+/Users/choeyujin/Downloads/mall/mypage/src/main/java/mall/PolicyHandler.java
+/Users/choeyujin/Downloads/mall/mypage/src/main/java/mall/config/kafka/KafkaProcessor.java
+/Users/choeyujin/Downloads/mall/mypage/src/main/java/mall/MypageViewHandler.java
+/Users/choeyujin/Downloads/mall/mypage/src/main/java/mall/DeliveryCanceled.java
+/Users/choeyujin/Downloads/mall/mypage/src/main/java/mall/MypageApplication.java
+/Users/choeyujin/Downloads/mall/mypage/src/main/java/mall/MypageRepository.java
+/Users/choeyujin/Downloads/mall/mypage/src/main/java/mall/Mypage.java
+/Users/choeyujin/Downloads/mall/mypage/src/main/java/mall/Ordered.java
+/Users/choeyujin/Downloads/mall/mypage/src/main/java/mall/Shipped.java
